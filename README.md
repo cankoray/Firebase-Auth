@@ -6,7 +6,8 @@ Firebase authentication example which handles user sign up and login.
 1. Install React Native with Expo CLI as described at [https://facebook.github.io/react-native/docs/getting-started.html](https://facebook.github.io/react-native/docs/getting-started.html)
 2. Clone this repository
 3. Run `npm install`, all required components will be installed automatically
-4. Use `expo start` command to run your project from root project directory.
+4. Replace your Firebase API key with 'YOUR_API_KEY' in store/actions/auth.js
+5. Use `expo start` command to run your project from root project directory.
 
 ## Project dependencies
 
